@@ -1,5 +1,8 @@
 # sda-coding
-//# = Header1
+
 JavaFromScratch_Kaunas1
 Start using Git.
-//## = Header2
+## Exercises
+- [ ] Basics
+- [ ] Flow control, loops and arrays
+- [ ] Object Oriented proramming
