@@ -5,4 +5,4 @@ Start using Git.
 ## Exercises
 - [ ] Basics
 - [ ] Flow control, loops and arrays
-- [ ] Object Oriented proramming
+- [ ] Object Oriented programming
